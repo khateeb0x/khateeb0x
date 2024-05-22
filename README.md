@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samiullah-Tufail&row=1&column=10" alt="Samiullah-Tufail" /></a> </p>
 
-- 🌱 I’m currently learning *React, Nextjs*
+- 🌱 I’m currently doing job as *React, Nextjs* developer
 
-- 📫 How to reach me *samiullahtufail181@gmail.com*
+- 📫 How to reach me *khateebasghrr@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samiullah-tufail-a91138282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samiullah-Tufail" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohammad-khateeb-40911a28b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samiullah-Tufail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
