@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Khateeb</h1>
-<h3 align="center">💻 A passionate Front End developer from Pakistan</h3>
+<h3 align="center">💻 A passionate MERN Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khateeb0x&label=Profile%20views&color=761f9e&style=flat" alt="khateeb0x" /> </p>
 
