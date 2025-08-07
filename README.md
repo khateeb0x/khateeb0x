@@ -33,31 +33,31 @@ Hello there! 👋 I'm **Your Name**, a passionate **Your Profession/Role** who l
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khateeb0x&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateeb0x&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 
-### 🔥 [Project 1](https://github.com/YourUsername/Project1)
+### 🔥 [Project 1](https://github.com/khateeb0x/Project1)
 Short description of your project.
 
-### 🚀 [Project 2](https://github.com/YourUsername/Project2)
+### 🚀 [Project 2](https://github.com/khateeb0x/Project2)
 Short description of your project.
 
-### 🎨 [Project 3](https://github.com/YourUsername/Project3)
+### 🎨 [Project 3](https://github.com/khateeb0x/Project3)
 Short description of your project.
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourUsername)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khateeb0x)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khateeb0x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khateeb0x)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khateeb0x)
 
 ---
 
-⭐️ From [YourUsername](https://github.com/YourUsername)
+⭐️ From [khateeb0x](https://github.com/khateeb0x)
 
 ---
 
@@ -65,7 +65,7 @@ Short description of your project.
 
 If you like my work, consider supporting me!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YourUsername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/khateeb0x)
 
 ---
 
@@ -75,7 +75,7 @@ Made with ❤️ and **Markdown**! 😊
 
 ### 🔮 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/khateeb0x/count.svg)
 
 ---
 
