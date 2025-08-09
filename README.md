@@ -1,15 +1,15 @@
 
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hello there! 👋 I'm **Your Name**, a passionate **Your Profession/Role** who loves to build amazing projects and contribute to open-source. 
+Hello there! 👋 I'm **Muhammad**, a passionate **Full Stack Developer** who loves to build amazing projects and contribute to open-source. 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Your Current Project**
-- 🌱 I’m currently learning **What You're Learning**
-- 👯 I’m looking to collaborate on **Open Source Projects/Your Interests**
-- 💬 Ask me about **Your Expertise**
-- 📫 How to reach me: **Your Email/Social Media**
+- 🔭 I’m currently working on **MERN Stack**
+- 🌱 I’m currently learning **AWS**
+- 👯 I’m looking to collaborate on **Open Source MERN Stack ERP projects**
+- 💬 Ask me about **Have 4 years of exp**
+- 📫 How to reach me: **khateebasghar03@gmail.com**
 - 😄 Pronouns: **Your Pronouns**
 - ⚡ Fun fact: **A Fun Fact About You**
 
