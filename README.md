@@ -10,8 +10,8 @@ Hello there! 👋 I'm **Muhammad**, a passionate **Full Stack Developer** who lo
 - 👯 I’m looking to collaborate on **Open Source MERN Stack ERP projects**
 - 💬 Ask me about **Have 4 years of exp**
 - 📫 How to reach me: **khateebasghar03@gmail.com**
-- 😄 Pronouns: **Your Pronouns**
-- ⚡ Fun fact: **A Fun Fact About You**
+- 😄 Pronouns: **Khateeb**
+- ⚡ Fun fact: **So lazy helpful person**
 
 ## 🛠️ Technologies & Tools
 
