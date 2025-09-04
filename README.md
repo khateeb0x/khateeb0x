@@ -47,10 +47,6 @@ Hello there! 👋 I'm **Muhammad**, a passionate **Full Stack Developer** who lo
 
 ---
 
-⭐️ From [khateeb0x](https://github.com/khateeb0x)
-
----
-
 ### 💖 Support Me
 
 If you like my work, consider supporting me!
